@@ -27,3 +27,6 @@ Run [main.py](./main.py), aaaannnddd DONE!
 
 ## Important
 I'm not a professional programmer and code could be messy. I hope to improve it in later versions.
+
+## Versions
+I don't know how to name versions, so, I will do what I think is the best way to name them.
