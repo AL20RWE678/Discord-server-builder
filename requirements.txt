@@ -1,0 +1,14 @@
+astroid==2.4.2
+async-timeout==3.0.1
+chardet==4.0.0
+colorama==0.4.4
+discord==1.0.1
+discord.py==1.7.2
+lazy-object-proxy==1.4.3
+proglog==0.1.9
+pyfiglet==0.8.post1
+pylint==2.6.0
+pypiwin32==223
+pywin32==300
+requests==2.25.1
+#There are unused libraries here, I'll fix it change it soon...

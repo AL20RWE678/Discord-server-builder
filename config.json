@@ -1,0 +1,5 @@
+{
+    "prefix": "~",
+    "delete_messages": "yes",
+    "token": "<YOUR_TOKEN_HERE>"
+}
