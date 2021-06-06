@@ -8,7 +8,7 @@ Thats true but there are other reasons to do that:
 Mainly, I want to try and learn Git. I have never really used it before so it could be a good way to learn. 
 BUT, today Discord bots have become a standard in Discord servers. Most of the people, don't want to mess around with stuff like that, so THIS self bot could help them setup stuff much much faster. 
 Also, this bot allows combination of templates, changing them and customizing them with a few simple commands.
-(And for developers, there's a very weird API, so you can easly create plugins).
+(And for developers, there's a very weird API, so you can easily create plugins).
 
 ## Installation
 ##### Windows
