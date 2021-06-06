@@ -13,7 +13,7 @@ Also, this bot allows combination of templates, changing them and customizing th
 ## Installation
 ##### Windows
 1. Download & install [Python](https://python.org/) | Make sure to add Python to your PATH!!!
-2. Run install.bat (This will setup [pip](https://pypa.io/) and the dependencies needed automatically for you.)
+2. Run [install.bat](./install.bat) (This will setup [pip](https://pypa.io/) and the dependencies needed automatically for you.)
 
 ##### Linux
 Coming soon, but generally you need to install python:
