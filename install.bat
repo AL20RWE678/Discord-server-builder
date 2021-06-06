@@ -10,7 +10,7 @@ IF ERRORLEVEL 1 (
 )
 where /q curl
 IF ERRORLEVEL 1 (
-    echo cURL does not exists. You cannot use this file.
+    echo cURL does not exists. You cannot run this file.
     PAUSE
     exit /b
 )
